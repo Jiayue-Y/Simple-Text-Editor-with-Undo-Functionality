@@ -1,0 +1,2 @@
+The time complexity of this program is O(n), n being the number of operations made.
+The space complexity of this program is O(1).
